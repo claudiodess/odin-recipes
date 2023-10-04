@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: azure;
+    color: blueviolet;
+    width: 600px;
+    height: 100px;
+}
+
+button {
+    background-color: gray;
+    color: white;
+    width: 400px;
+    height: 100px;
+    text-align:center;
+    font-size: 24px;
+}
+
+h2,
+h3 {
+    color: blue;
+}
+
+p,
+ol {
+    width: 400px;
+}
+
+ul {
+    text-align: inherit;
+}
